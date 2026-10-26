@@ -67,7 +67,7 @@ Sales and profit KPIs are aggregated from the cleaned orders dataset. Inventory 
 
 ## Dashboard Link
 
-[Insert your shareable Data Studio dashboard link here.]
+[https://datastudio.google.com/reporting/79034c1b-840c-4bed-82e9-368cda6cbff2]
 
 ## Related Project
 
